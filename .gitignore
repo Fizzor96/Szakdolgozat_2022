@@ -1,0 +1,22 @@
+**/build/*
+**/.vscode/*
+.vscode/*
+
+
+# 1
+*.html
+*.htm
+*.php
+*.js
+*.tsx
+*.obj
+*.exe
+
+# 2
+**.html
+**.htm
+**.php
+**.js
+**.tsx
+**.obj
+**.exe
